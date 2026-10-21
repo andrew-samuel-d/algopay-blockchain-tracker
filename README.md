@@ -27,4 +27,4 @@ Initial setup and project planning.
 The project will be expanded throughout the course as new Algorand concepts and development skills are learned.
 
 ## Author
-Your Name
+Andrew S
